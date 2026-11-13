@@ -1,0 +1,1 @@
+- [Bitacora de tecnicas avanzadas](prompts/BITACORA.md)
